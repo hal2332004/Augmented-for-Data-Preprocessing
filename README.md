@@ -1,2 +1,2 @@
 # Augmented-for-Data-Preprocessing
-Simple technique to preprocessing and augmentation after download labeled dataset in Roboflow
+A simple technique for preprocessing and augmentation after downloading a labeled YOLOv8-format dataset from Roboflow for training model real-time detection.
